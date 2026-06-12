@@ -24,6 +24,6 @@ We are always told to set big goals. But this week, I read a concept that comple
 * **The 2-Minute Rule:** When starting a new habit, it should take less than two minutes to do.
 
 If you are struggling to build better routines, I highly recommend picking up this book!
-Use code with caution.Step 3: Save and PublishScroll down, click the green Commit changes... button, choose Commit directly to the main branch, and click Commit changes to save.Within 60 seconds, your blog post will be perfectly formatted and ready for your followers to read!Would you like to try typing out a short, real reflection for one of your favorite books right now to see how the formatting looks live?
+
 ---
 
