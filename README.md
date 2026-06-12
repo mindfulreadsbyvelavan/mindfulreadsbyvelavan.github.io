@@ -11,8 +11,7 @@ Here, I share my deep-dive book summaries, mindful reading logs, and key life ta
 * **My Rating:** ⭐⭐⭐⭐⭐
 * **Key Takeaway:** Small 1% daily improvements compound into massive changes over time. Don't focus on goals; focus on your systems.
 "You do not rise to the level of your goals. You fall to the level of your systems." — James Clear
-Use code with caution.🎨 An Example of a Completed Blog Post:Here is how a real blog post looks when you type it into GitHub:markdown### Why Systems Matter More Than Goals (My Atomic Habits Reflection)
-*Published on: June 12, 2026*
+### Why Systems Matter More Than Goals (My Atomic Habits Reflection)
 
 We are always told to set big goals. But this week, I read a concept that completely flipped my mindset. 
 
